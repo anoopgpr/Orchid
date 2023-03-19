@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "916251456453",
+    "firebase_url": "https://orchid-f017d.firebaseio.com",
+    "project_id": "orchid-f017d",
+    "storage_bucket": "orchid-f017d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:916251456453:android:c0649368b646e842",
+        "android_client_info": {
+          "package_name": "com.mobiquest.orchid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "916251456453-8i6311ug6mb43at1d8k8uuoc6juv7m7p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBom6rmm8A0QlK6RAL_Eaw3riYdjdwsjWc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
